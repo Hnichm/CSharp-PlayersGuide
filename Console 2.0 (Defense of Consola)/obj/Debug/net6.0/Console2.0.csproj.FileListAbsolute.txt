@@ -1,0 +1,14 @@
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\bin\Debug\net6.0\Console2.0.exe
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\bin\Debug\net6.0\Console2.0.deps.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\bin\Debug\net6.0\Console2.0.runtimeconfig.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\bin\Debug\net6.0\Console2.0.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\bin\Debug\net6.0\Console2.0.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\Console2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\Console2.0.AssemblyInfoInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\Console2.0.AssemblyInfo.cs
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\Console2.0.csproj.CoreCompileInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\Console2.0.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\refint\Console2.0.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\Console2.0.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\Console2.0.genruntimeconfig.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Console2.0\obj\Debug\net6.0\ref\Console2.0.dll
