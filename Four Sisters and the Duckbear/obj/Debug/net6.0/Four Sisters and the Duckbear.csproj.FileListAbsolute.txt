@@ -1,0 +1,14 @@
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\bin\Debug\net6.0\Four Sisters and the Duckbear.exe
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\bin\Debug\net6.0\Four Sisters and the Duckbear.deps.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\bin\Debug\net6.0\Four Sisters and the Duckbear.runtimeconfig.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\bin\Debug\net6.0\Four Sisters and the Duckbear.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\bin\Debug\net6.0\Four Sisters and the Duckbear.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\Four Sisters and the Duckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\Four Sisters and the Duckbear.AssemblyInfoInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\Four Sisters and the Duckbear.AssemblyInfo.cs
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\Four Sisters and the Duckbear.csproj.CoreCompileInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\Four Sisters and the Duckbear.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\refint\Four Sisters and the Duckbear.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\Four Sisters and the Duckbear.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\Four Sisters and the Duckbear.genruntimeconfig.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Four Sisters and the Duckbear\Four Sisters and the Duckbear\obj\Debug\net6.0\ref\Four Sisters and the Duckbear.dll
