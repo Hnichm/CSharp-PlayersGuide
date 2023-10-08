@@ -1,0 +1,14 @@
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\bin\Debug\net6.0\Repairing the Clocktower.exe
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\bin\Debug\net6.0\Repairing the Clocktower.deps.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\bin\Debug\net6.0\Repairing the Clocktower.runtimeconfig.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\bin\Debug\net6.0\Repairing the Clocktower.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\bin\Debug\net6.0\Repairing the Clocktower.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\Repairing the Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\Repairing the Clocktower.AssemblyInfoInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\Repairing the Clocktower.AssemblyInfo.cs
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\Repairing the Clocktower.csproj.CoreCompileInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\Repairing the Clocktower.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\refint\Repairing the Clocktower.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\Repairing the Clocktower.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\Repairing the Clocktower.genruntimeconfig.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Repairing the Clocktower\obj\Debug\net6.0\ref\Repairing the Clocktower.dll
