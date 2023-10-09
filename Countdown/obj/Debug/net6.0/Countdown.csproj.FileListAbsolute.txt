@@ -1,0 +1,14 @@
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\Countdown.AssemblyInfoInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\Countdown.AssemblyInfo.cs
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\bin\Debug\net6.0\Countdown.exe
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\bin\Debug\net6.0\Countdown.deps.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\bin\Debug\net6.0\Countdown.runtimeconfig.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\bin\Debug\net6.0\Countdown.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\bin\Debug\net6.0\Countdown.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\Countdown.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\refint\Countdown.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\Countdown.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\Countdown.genruntimeconfig.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Countdown\obj\Debug\net6.0\ref\Countdown.dll
