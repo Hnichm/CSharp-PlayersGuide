@@ -1,0 +1,14 @@
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\bin\Debug\net6.0\Watchtower.exe
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\bin\Debug\net6.0\Watchtower.deps.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\bin\Debug\net6.0\Watchtower.runtimeconfig.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\bin\Debug\net6.0\Watchtower.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\bin\Debug\net6.0\Watchtower.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\Watchtower.AssemblyInfoInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\Watchtower.AssemblyInfo.cs
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\Watchtower.csproj.CoreCompileInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\Watchtower.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\refint\Watchtower.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\Watchtower.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\Watchtower.genruntimeconfig.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\Watchtower\obj\Debug\net6.0\ref\Watchtower.dll
