@@ -1,0 +1,1 @@
+# CSharp-PlayersGuide solved exercises
