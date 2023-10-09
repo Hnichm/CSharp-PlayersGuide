@@ -1,0 +1,14 @@
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\bin\Debug\net6.0\The Magic Cannon.exe
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\bin\Debug\net6.0\The Magic Cannon.deps.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\bin\Debug\net6.0\The Magic Cannon.runtimeconfig.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\bin\Debug\net6.0\The Magic Cannon.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\bin\Debug\net6.0\The Magic Cannon.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\The Magic Cannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\The Magic Cannon.AssemblyInfoInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\The Magic Cannon.AssemblyInfo.cs
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\The Magic Cannon.csproj.CoreCompileInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\The Magic Cannon.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\refint\The Magic Cannon.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\The Magic Cannon.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\The Magic Cannon.genruntimeconfig.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Projects\The Magic Cannon\obj\Debug\net6.0\ref\The Magic Cannon.dll
