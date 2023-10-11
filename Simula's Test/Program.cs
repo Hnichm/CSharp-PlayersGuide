@@ -1,40 +1,29 @@
 ﻿void ChestMessage(ChestState chestState)
 {
-    Console.Write($"The chest is {chestState}. What do you want to do? " );
+    Console.Write($"The chest is {chestState}. What do you want to do? ");
 }
 
 UserChestActions ChestOption()
 {
-    bool validChoice = false;
-
-    UserChestActions action = UserChestActions.unlocks;
-
-    while (!validChoice)
+    while (true)
     {
         string userChoice = Console.ReadLine();
 
-        if (userChoice == "unlock")
+        switch (userChoice)
         {
-            validChoice = true;
-            action = UserChestActions.unlocks;
-        }
-        else if (userChoice == "lock")
-        {
-            validChoice = true;
-            action = UserChestActions.locks;
-        }
-        else if (userChoice == "open")
-        {
-            validChoice= true;
-            action = UserChestActions.opens;
-        }
-        else if (userChoice == "close")
-        {
-            validChoice= true;
-            action = UserChestActions.closes;
+            case "unlock":
+                return UserChestActions.unlocks;
+            case "lock":
+                return UserChestActions.locks;
+            case "open":
+                return UserChestActions.opens;
+            case "close":
+                return UserChestActions.closes;
+            default:
+                Console.Write("Invalid choice. Try again: ");
+                break;
         }
     }
-    return action;
 }
 
 void CheckChestState()
@@ -44,39 +33,36 @@ void CheckChestState()
     {
         ChestMessage(chestState);
         UserChestActions userAction = ChestOption();
-        
-        if(chestState == ChestState.locked)
-        {
-            if (userAction == UserChestActions.unlocks)
-            {
-                chestState = ChestState.closed;
-            }
-        }
-        if(chestState  == ChestState.closed)
-        {
-            if (userAction == UserChestActions.opens)
-            {
-                chestState = ChestState.open;
-            }
-            if (userAction == UserChestActions.locks)
-            {
-                chestState = ChestState.locked;
-            }
-        }
-        if(chestState == ChestState.open)
-        {
-            if (userAction == UserChestActions.closes)
-            {
-                chestState = ChestState.closed;
-            }
-        }
 
+        switch (chestState)
+        {
+            case ChestState.locked:
+                if (userAction == UserChestActions.unlocks)
+                {
+                    chestState = ChestState.closed;
+                }
+                break;
+            case ChestState.closed:
+                if (userAction == UserChestActions.opens)
+                {
+                    chestState = ChestState.open;
+                }
+                else if (userAction == UserChestActions.locks)
+                {
+                    chestState = ChestState.locked;
+                }
+                break;
+            case ChestState.open:
+                if (userAction == UserChestActions.closes)
+                {
+                    chestState = ChestState.closed;
+                }
+                break;
+        }
     }
-
 }
 
 CheckChestState();
 
-
 enum ChestState { open, closed, locked };
-enum UserChestActions { opens, closes, locks, unlocks}
+enum UserChestActions { opens, closes, locks, unlocks }

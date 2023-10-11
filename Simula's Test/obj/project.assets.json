@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juli_\\OneDrive\\Escritorio\\Programming\\Windows C#\\Ultimate C# Masterclass for 2024 Projects\\Projects\\Simula's Test\\Simula's Test.csproj",
+      "projectUniqueName": "C:\\Users\\juli_\\OneDrive\\Escritorio\\Programming\\Windows C#\\C# Player's Guide Projects\\Projects\\Simula's Test\\Simula's Test.csproj",
       "projectName": "Simula's Test",
-      "projectPath": "C:\\Users\\juli_\\OneDrive\\Escritorio\\Programming\\Windows C#\\Ultimate C# Masterclass for 2024 Projects\\Projects\\Simula's Test\\Simula's Test.csproj",
+      "projectPath": "C:\\Users\\juli_\\OneDrive\\Escritorio\\Programming\\Windows C#\\C# Player's Guide Projects\\Projects\\Simula's Test\\Simula's Test.csproj",
       "packagesPath": "C:\\Users\\juli_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juli_\\OneDrive\\Escritorio\\Programming\\Windows C#\\Ultimate C# Masterclass for 2024 Projects\\Projects\\Simula's Test\\obj\\",
+      "outputPath": "C:\\Users\\juli_\\OneDrive\\Escritorio\\Programming\\Windows C#\\C# Player's Guide Projects\\Projects\\Simula's Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\juli_\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"

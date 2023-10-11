@@ -12,3 +12,17 @@ C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclas
 C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.pdb
 C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.genruntimeconfig.cache
 C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Test\obj\Debug\net6.0\ref\Simula's Test.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\bin\Debug\net6.0\Simula's Test.exe
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\bin\Debug\net6.0\Simula's Test.deps.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\bin\Debug\net6.0\Simula's Test.runtimeconfig.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\bin\Debug\net6.0\Simula's Test.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\bin\Debug\net6.0\Simula's Test.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.AssemblyInfoInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.AssemblyInfo.cs
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.csproj.CoreCompileInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\refint\Simula's Test.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\Simula's Test.genruntimeconfig.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\C# Player's Guide Projects\Projects\Simula's Test\obj\Debug\net6.0\ref\Simula's Test.dll
