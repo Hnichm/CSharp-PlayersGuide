@@ -1,0 +1,14 @@
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\Simula's Soup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\Simula's Soup.AssemblyInfoInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\Simula's Soup.AssemblyInfo.cs
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\Simula's Soup.csproj.CoreCompileInputs.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\bin\Debug\net7.0\Simula's Soup.exe
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\bin\Debug\net7.0\Simula's Soup.deps.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\bin\Debug\net7.0\Simula's Soup.runtimeconfig.json
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\bin\Debug\net7.0\Simula's Soup.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\bin\Debug\net7.0\Simula's Soup.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\Simula's Soup.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\refint\Simula's Soup.dll
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\Simula's Soup.pdb
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\Simula's Soup.genruntimeconfig.cache
+C:\Users\juli_\OneDrive\Escritorio\Programming\Windows C#\Ultimate C# Masterclass for 2024 Projects\Projects\Simula's Soup\obj\Debug\net7.0\ref\Simula's Soup.dll
